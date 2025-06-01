@@ -1,0 +1,6 @@
+*.mo linguist-language=Modelica
+*.gsc linguist-language=GSC
+*.cas linguist-language=Fluent
+*.dats linguist-language=ATS
+*.scm linguist-language=Scheme
+*.p4 linguist-language=P4
